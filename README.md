@@ -146,7 +146,7 @@
   <!-- End Page Container -->
 </div>
 
-<!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. --->
+<!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. -->
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
   <i class="fa fa-facebook-official w3-hover-opacity"></i>
