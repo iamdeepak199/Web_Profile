@@ -155,7 +155,7 @@
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity">https://www.linkedin.com/in/deepak-bhardwaj-3b433b220/</i>
- <p class="w3-small">website Show about me!</p>
+ <p class="w3-small">This website Show about me!</p>
  <a class="w3-button w3-round-xxlarge w3-small w3-light-grey w3-margin-bottom" href="" target="_blank">Start now</a> <!-- End footer -->
 </footer>
 </body>
